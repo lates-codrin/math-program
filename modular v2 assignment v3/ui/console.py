@@ -12,8 +12,7 @@ VERSION = '1.4'
 # iteration 3: improved console UI, and added expressions to complement numbers in the UI
 #              added documentation (docstring) and how to use the program
 #iteration 4: non-console UI launcher, learned pygui
-#iter5: shortening of run function, learned maps etc
-#iter6: more validation of user input in #features, and updated pygui result text to display errors
+
 def parser(v) -> any:
     """
     """
