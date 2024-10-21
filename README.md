@@ -76,15 +76,15 @@ Then the list would be: my_list = []
 - Improved console UI, and added expressions to complement numbers in the UI.
    - e.g Instead of inputting "2" and "replace 1 2" to replace 1 with 2 inside the list, simply type "replace 1 2".
 - Added documentation (docstring) and how to use the program.
+- Shortening of the run function inside the console ui launcher
+- Even more input validation
 
 ## Iteration 4
 - Non-console UI launcher, using Dear PyGui
 
 ## Iteration 5
-- Shortening of the run function inside the console ui launcher
-
-## Iteration 6
 - More validation of user input in #features, and updated pygui result text to display errors
+
 ## Lessons Learned
 
 While building this project I learned that python allows me to do things that seemed impossible before. Before, code could take up from 10-20 lines, but now everything can basically be done in __one__ line, thanks to Python.
