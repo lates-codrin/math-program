@@ -1,4 +1,4 @@
-# [:abacus:] Math Program (Problem 1)
+# [🧮] Math Program (Problem 1)
 ## How to run
 
 To run this program:
@@ -7,7 +7,7 @@ To run this program:
 ```
 
 
-## Features
+## [📜] Features
 
 - Add numbers or insert at position in a list.
 - Remove or replace numbers or sublists of a list.
@@ -17,7 +17,7 @@ To run this program:
 - Undo any operation made on the list.
 
 
-## Usage/Examples
+## [🔨] Usage/Examples
 
 ### Add a number to the list
 ```bash
@@ -58,7 +58,7 @@ undo
 Then the list would be: my_list = []
 
 
-# Program Iterations (Versions)
+# [💾] Program Iterations (Versions)
 
 ## Iteration 1
 
