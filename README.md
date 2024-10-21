@@ -2,7 +2,11 @@
 ## How to run
 You can get the program here:
  <!-- INCEPE -->
-[![Download Here](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/lates-codrin/math-program/archive/refs/tags/iteration-3.zip)
+[![Download Here](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/lates-codrin/math-program/archive/refs/tags/iteration-3.zip) __(Console UI)__
+<!-- TERMINA -->
+
+ <!-- INCEPE -->
+[![Download Here](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/lates-codrin/math-program/releases/tag/iteration-4) __(Console and DearPyGui UI)__
 <!-- TERMINA -->
 
 To run this program:
