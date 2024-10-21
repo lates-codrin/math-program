@@ -96,3 +96,8 @@ Thanks to this I could focus on coming up with better ideas; for example the und
 
 - [@lates-codrin](https://github.com/lates-codrin)
 
+## Acknowledgements
+
+- UI Library used: [Dear PyGui](https://dearpygui.readthedocs.io/en/latest/)
+
+
