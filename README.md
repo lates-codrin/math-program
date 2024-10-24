@@ -70,9 +70,10 @@ Then the list would be: my_list = []
 
 ## Iteration 1
 
-- Created all of the features in 1 file.
+- Created feature one and two in 1 file.
 
 ## Iteration 2
+- Created feature three and four.
 - Started modularizing everything and adding checks (and asserts)
 - Added console input, and validation of input.
 
