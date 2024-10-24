@@ -78,6 +78,7 @@ Then the list would be: my_list = []
 - Added console input, and validation of input.
 
 ## Iteration 3
+- Created feature 5 and 6.
 - Improved console UI, and added expressions to complement numbers in the UI.
    - e.g Instead of inputting "2" and "replace 1 2" to replace 1 with 2 inside the list, simply type "replace 1 2".
 - Added documentation (docstring) and how to use the program.
