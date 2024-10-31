@@ -6,7 +6,7 @@ You can get the program here:
 <!-- TERMINA -->
 
  <!-- INCEPE -->
-[![Download Here](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/lates-codrin/math-program/archive/refs/tags/iteration-5.zip) __DearPyGui UI)__
+[![Download Here](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/lates-codrin/math-program/archive/refs/tags/iteration-5.zip) __(DearPyGui UI)__
 <!-- TERMINA -->
 
 To run this program:
